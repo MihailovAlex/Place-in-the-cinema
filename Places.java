@@ -71,8 +71,6 @@ public class Places {
                 return currentProfit += cost;
             }
         }
-
-
     }
 
     private static void callingMenu() {
